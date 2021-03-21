@@ -1,0 +1,21 @@
+{
+  "name": "primer-modulo",
+  "version": "1.0.0",
+  "description": "Tarea primer modulo react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start2": "node index2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ratarussa:Port1106.@github.com/ratarussa/primer-modulo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratarussa/primer-modulo/issues"
+  },
+  "homepage": "https://github.com/ratarussa/primer-modulo#readme"
+}
